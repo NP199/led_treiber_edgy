@@ -1,4 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "on_edge")(type "KiCad")(uri "${KIPRJMOD}/../put_on_edge/on_edge.pretty")(options "")(descr ""))
-  (lib (name "led_treiber_edgy")(type "KiCad")(uri "//wsl.localhost/Arch/home/niklas/led_treiber_edgy/led_treiber_edgy.pretty")(options "")(descr ""))
+  (lib (name "led_treiber_edgy")(type "KiCad")(uri "//wsl.localhost/Arch/home/niklas/led_treiber_board/led_treiber_edgy.pretty")(options "")(descr ""))
 )
